@@ -1,0 +1,9 @@
+Best K: 2
+K-Means silhouette score: 0.5761
+Agglomerative silhouette score: 0.5756
+K-Means K scores:
+k=2: 0.5761
+k=3: 0.3592
+k=4: 0.2932
+k=5: 0.2811
+k=6: 0.2756
